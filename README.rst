@@ -1,16 +1,16 @@
 Pycord
 ======
 
-.. image:: https://img.shields.io/discord/881207955029110855?color=blue&label=discord
+.. image:: https://img.shields.io/discord/881207955029110855?color=blue&label=discord&style=for-the-badge&logo=discord&color=success
    :target: https://pycord.dev/discord
    :alt: Discord server invite
-.. image:: https://img.shields.io/pypi/v/py-cord.svg
+.. image:: https://img.shields.io/pypi/v/py-cord.svg?style=for-the-badge&logo=semantic-release&color=yellowgreen
    :target: https://pypi.python.org/pypi/py-cord
    :alt: PyPI version info
-.. image:: https://img.shields.io/pypi/pyversions/py-cord.svg
+.. image:: https://img.shields.io/pypi/pyversions/py-cord.svg?style=for-the-badge&logo=python
    :target: https://pypi.python.org/pypi/py-cord
    :alt: PyPI supported Python versions
-.. image:: https://img.shields.io/pypi/dm/py-cord?color=blue
+.. image:: https://img.shields.io/pypi/dm/py-cord?color=blueviolet&logo=pypi&logoColor=blue&style=for-the-badge
    :target: https://pypi.python.org/pypi/py-cord
    :alt: PyPI downloads
 
@@ -120,8 +120,8 @@ You can find more examples in the examples directory.
 
 Note: Make sure you do not reveal your bot token to anyone, it can grant access to your bot.
 
-Links
------
+Useful Links
+------------
 
 - `Documentation <https://docs.pycord.dev/en/master/index.html>`_
 - `Our Official Discord Server <https://pycord.dev/discord>`_
